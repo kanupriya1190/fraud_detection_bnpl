@@ -1,5 +1,6 @@
 # Data files (generated, not tracked)
 data/*.db
+!data/bnpl.db
 data/*.csv
 !data/model_metrics.csv
 data/*.parquet
